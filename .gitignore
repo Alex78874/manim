@@ -1,0 +1,10 @@
+# Environnement Python
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# Sorties de ManimGL (se régénèrent avec les commandes du README)
+videos/
+images/
+latex_cache/

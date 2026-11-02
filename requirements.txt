@@ -1,0 +1,4 @@
+# La 1.7.2 publiée sur PyPI a un MarkupText/Text cassé : on prend la version GitHub.
+manimgl @ https://github.com/3b1b/manim/archive/refs/heads/master.zip
+numpy
+pygments
